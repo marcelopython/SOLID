@@ -20,5 +20,7 @@ module.exports = {
         sourceType:'module'
     },
     plugin:['@typescript-eslint'],
-    rules:{}
-};
+    "rules": {
+        "@typescript-eslint/rule-name": "error"
+      }
+    };
