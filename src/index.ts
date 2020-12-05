@@ -1,1 +1,1 @@
-const nome = 'Marcelo'
+export class 
