@@ -16,3 +16,5 @@ console.log(shoopCart.items);
 console.log(shoopCart.total());
 order.checkout();
 console.log(order.orderStatus)
+
+// teste
